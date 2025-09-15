@@ -1,0 +1,42 @@
+# Build folders
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Logs
+*.log
+
+# NuGet packages
+packages/
+*.nupkg
+# Uncomment if you have package restore enabled
+# /packages/*
+
+# Node modules (if used)
+node_modules/
+
+# Environment variables
+.env
+
+# Others
+*.cache
+*.config.user
+*.dbmdl
+*.bak
+*.backup
+*.publishsettings
